@@ -1,0 +1,4 @@
+# Summary of Day_4
+->Learn how to connect motor driver & complete the car!!
+->Ready to competition.
+-------------------------------------

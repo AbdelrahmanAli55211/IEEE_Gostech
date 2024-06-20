@@ -1,0 +1,4 @@
+# Summary of Day_2
+->Learn code of teachable machine
+->project > led 1 will be on when camera see number 1 , led 2 will ....... , etc
+-------------------------------------

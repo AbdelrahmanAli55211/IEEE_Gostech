@@ -1,0 +1,4 @@
+# Summary of Day_3
+->Learn how to connect 7_segment & how to connect arduino with blutooth 
+->project > camera will see a number and this number will display on 7_segmant
+-------------------------------------

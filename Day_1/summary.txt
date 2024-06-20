@@ -1,0 +1,5 @@
+# Summary of Day_1
+->Learn basics of arduion 
+->Use teachable machine 
+->Write arduion code > Blinking led 
+-------------------------------------
